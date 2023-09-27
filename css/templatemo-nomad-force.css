@@ -248,7 +248,7 @@ strong {
     float: left;
     margin: 10px;
     border: 1px solid gainsboro;
-    width: 300px;
+    width:30%;
 }
  
 .header
@@ -291,6 +291,7 @@ strong {
 {
     list-style-type: none;
 }
+
  
 .tabel-harga ul li
 {
